@@ -12,3 +12,4 @@ void addSong();
 void removeSong();
 void printDLL();
 void printInverseDLL();
+void delAll();
